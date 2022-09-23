@@ -20,14 +20,14 @@ In my free time, I attend PTAstroBio (Polish Astrobiology Society) meetings, rea
 
 ## 💻 Projects
 
-### [Detection of single nucleotide polymorphisms in Saccharomyces cerevisiae](/university_projects/NGS_data_analysis/REPORT.md)
+### [Detection of single nucleotide polymorphisms in Saccharomyces cerevisiae](anita-brzoza/university_projects/NGS_data_analysis/REPORT.md)
 Detection of SNPs in vac6 (wild type and mutant with impaired vacuole inheritance) and vac22 (wild type) strains of Saccharomyces cerevisiae. Data from SRA study number SRP003355 published on 2010-10-12 in the National Center for Biotechnology Information Sequence Read Archive were used. The project used tools such as FastQC, MultiQC, Trimmomatic, bowtie2, SAMTOOLS, The Genome Analysis Toolkit (GATK) and VCFtools.
 
 
 ## 📂 Repositories
 
-* [courses](/courses/) - contain solutions from redesigned courses
-* [university_projects](/university_projects/) - contain directories of projects done during the bioinformatics degree program
+* [courses](anita-brzoza/courses/) - contain solutions from redesigned courses
+* [university_projects](anita-brzoza/university_projects/) - contain directories of projects done during the bioinformatics degree program
 
 
 <!--
