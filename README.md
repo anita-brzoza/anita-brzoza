@@ -4,7 +4,7 @@
 
 ## 🧑🏼‍🔬👩🏼‍💻 About me
 
-I am a microbiologist as well as a bioinformatician, and I used my skills to create a pipelined metagenomic analysis in QIIME 2 software on a sample data set as part of the research project "Bioinformatic modeling of the effects of probiotic supplementation on the microbiomes of carp (_Cyprinus carpio_) rearing ponds and digestive system". In addition, I have been self-studying programming in Python and R since 2020. I am a highly motivated, well-organized, and eager to gain experience. 
+I'm a microbiologist and bioinformatician, and I used my skills to create a pipelined metagenomic analysis in QIIME 2 software on a sample data set as part of the research project "Bioinformatic modeling of the effects of probiotic supplementation on the microbiomes of carp (_Cyprinus carpio_) rearing ponds and digestive system". In addition, I have been self-studying programming in Python and R since 2020. I am a highly motivated, well-organized, and eager to gain experience. 
 
 In my free time, I attend PTAstroBio (Polish Astrobiology Society) meetings, read books and follow SpaceX projects.
 
