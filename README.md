@@ -4,7 +4,7 @@
 
 ## 🧑🏼‍🔬👩🏼‍💻 About me
 
-A metagenomics enthusiast eager to constantly expand her knowledge and gain new experience in bioinformatics and microbiology. Currently absorbed in the metagenomic analysis of the aerobiomes as part of her activities in the Polish Society of Astrobiology and topics related to infections and diagnosis of high-risk HPV types, as well as some serovars of Salmonella enterica subsp. enterica.
+A metagenomics enthusiast eager to constantly expand her knowledge and gain new experience in bioinformatics and microbiology. Currently absorbed in the metagenomic analysis of the aerobiomes as part of her activities in the Polish Society of Astrobiology and topics related to infections and topics related to molecular diagnostics.
 
 ## 🛠️ Languages and Tools
   
