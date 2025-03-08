@@ -4,7 +4,8 @@
 
 ## 🧑🏼‍🔬👩🏼‍💻 About me
 
-A metagenomics enthusiast eager to constantly expand her knowledge and gain new experience in bioinformatics and microbiology. Currently absorbed in the metagenomic analysis of the aerobiomes as part of her activities in the Polish Society of Astrobiology and topics related to infections and topics related to molecular diagnostics.
+I am a bioinformatician and microbiologist with three years of experience in biological data analysis and laboratory work. Currently, I work at the Laboratory of Genomics and Bioinformatics at the Hirszfeld Institute of Immunology and Experimental Therapy Polish Academy of Sciences. My main focus is on metagenome analysis of human samples, as well as studies involving tumors and bacterial metabolites. Additionally, I am a member of the Polish Astrobiology Society (PT AstroBio), where I concentrate on metagenomic analysis of the aerobiome.
+I am seeking opportunities that will allow me to utilize and enhance my skills and knowledge in bioinformatics and molecular biology, contributing to my professional development.
 
 ## 🛠️ Languages and Tools
   
